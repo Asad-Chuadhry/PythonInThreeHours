@@ -1,0 +1,5 @@
+Python package index module:
+    It is website where we can find amazing packages built by python community
+    https://pypi.org/
+pip:
+    pip is tool used to install and uninstall python packages registered on Pypi.org
